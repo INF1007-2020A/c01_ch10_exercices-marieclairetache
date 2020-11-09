@@ -7,7 +7,7 @@ import sys
 import unittest
 
 import numpy as np
-from cmath import polar
+
 
 import exercice
 
